@@ -1,5 +1,5 @@
 # Simple-Hand-Posture-Detection
-Write a complete program (using any programming language) to apply edge detection. In doing as: 
+Write a complete program (using python) to apply edge detection. In doing as: 
 ### Step 1: Input Images:
 A. The dataset consists of more than one image; each image has a different hand sign.
 
